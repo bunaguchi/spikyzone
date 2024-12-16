@@ -1,0 +1,424 @@
+ゲームギア用ソフト「IN THE WAKE OF VAMPIRE」デモシーン文章対訳
+怪しい訳もありますがご容赦を。
+
+
+●オープニング-------------------------------------------------------
+
+And the legend goes
+that the full moon
+brings with it
+horrible events...
+
+伝説は語る
+満月とともに
+恐ろしい出来事が
+もたらされると……
+
+
+Have you not heard the legend of he who rises with the full moon...
+The legend of vampire?
+
+満月と共に現れる者の伝説を聞いたことはないか？
+……吸血鬼の伝説を。
+
+Well, the story actually happened in England...
+100 years ago......
+
+物語は100年前のイングランドで始まる……
+
+There was an investigator of the paranormal,
+a young psychologist named Ferdinand Social.
+
+超常現象の研究家である若き心理学者フェルディナンド・ソーシャル。
+
+...On the night of the full moon,
+he received a mysterious message while
+using his Ouija board.
+
+ある満月の夜、彼がウィジャ盤に向かっていると、
+不気味なメッセージが現れた。
+
+KILLER
+VAMPIRE
+GO TO THAMES
+CAUTION
+CAUTION
+IN THE WAKE OF
+DRACULA
+
+サツジンハン
+キュウケツキ
+テムズニイケ
+キヲツケロ
+キヲツケロ
+ドラキュラノ
+メザメニ
+
+
+●ラウンド１開始前-----------------------------------------------------
+
+At that time in London,
+the rising of the full moon meant
+the coming of yet another gruesome murder.
+
+その頃ロンドンでは、満月の夜に身の毛もよだつ
+恐ろしい殺人事件が起こっていた。
+
+The following morning would always bring
+the discovery of yet another body...
+completely drained of blood.
+
+翌朝になると決まって死体が発見されるのだ。
+……血液が完全に抜き取られた死体が。
+
+Dr. Social knew that there was something
+supernatural at the heart of the mystery,
+and began investigating.
+
+ソーシャル博士は、この謎の核心には
+超自然的な何かがあることを察知し、
+調査を開始した。
+
+Calling on the powers of the Ouija board,
+Social learned that at the Thames river,
+
+horrible events beyond human imagination
+were taking place.
+
+ウィジャ盤の力に導かれてやって来たソーシャルは、
+テムズ川で人知を超えた恐ろしい出来事が
+起こっていることを知った。
+
+ROUND 1 THAMES RIVER
+
+ラウンド１　テムズ川
+
+
+●ラウンド１ボスのセリフ-----------------------------------------------
+
+Arr! You wish to hinder me?
+
+Arr! 俺の邪魔をする気か？
+
+
+●ラウンド２開始前-----------------------------------------------------
+
+"Heh heh heh...
+So you managed to defeat my Jack the Ripper.
+That's right all that has happened here has
+been under my control.
+
+「フッフッフ……
+どうやら私の切り裂きジャックを倒したようだね。
+ここで起こった全ては私が仕組んだことだ。
+
+And the things you've seen so far are just the start
+of the horrors..........!!!
+
+そして、これまで君が見てきたことは
+恐怖の始まりに過ぎないのだ…………！！！
+
+Heh heh heh......
+Go to the house of wax, if you dare.
+My waxwork figures will be waiting for you!
+
+フッフッフ……
+蝋人形館に行くがいい。もし君に勇気があるのならね。
+私の蝋人形たちが君を待っていることだろう！
+
+Perhaps you will be my next wax masterpiece.
+I need a replacement for Jack the Ripper",
+after all. 
+
+おそらく君はすばらしい蝋人形になる。
+切り裂きジャックの代わりが必要だからね。」
+
+ROUND 2 THE HOUSE OF WAX DOLLS
+
+ラウンド２　蝋人形館
+
+
+●ラウンド２ボスのセリフ-----------------------------------------------
+
+Hee hee heee!
+Blood! Young... fresh blood!
+
+ヒーッヒッヒ！
+血！若くて……新鮮な血！
+
+
+●ラウンド３開始前-----------------------------------------------------
+
+"The cemetery, east of town..."
+
+「墓場、町の東……」
+
+After defeating the evil spirits,
+the psychic girl managed to gasp
+a warning before falling into unconsciousness.
+
+悪霊を倒した後、サイキックの女は、
+意識が途切れる前に息も絶え絶えにそう言った。
+
+Jack the Ripper was collecting bodies and fresh blood,
+to be spilit as sacrificial offerings to dark forces.
+
+切り裂きジャックは死体と新鮮な血液を集めていたのだ。
+その魂を闇の力に生贄として捧げるために。
+
+"...The cemetery east of town..."
+There was no way to know what
+the message was warning him about.....
+
+「……町の東の墓地……」
+そのメッセージが何を言おうとしていたのかを
+知るすべはもう無くなった……
+
+But Dr.Social had to act quickly,
+so he rushed there as fast as he could.
+
+だが、ソーシャル博士は急がねばならなかった。
+彼は可能な限り急いでその場所へと向かった。
+
+ROUND 3 EPITAPH
+
+ラウンド３　墓碑銘
+
+
+●ラウンド３ボスのセリフ-----------------------------------------------
+
+（戦闘前）
+
+You interrupt the dark rite.
+You must die!
+
+お前は闇の儀式の邪魔をした。
+死ね！
+
+（戦闘後）
+
+Meddler!
+You've killed my warriors.
+You shall pay!
+
+邪魔者め！
+私の手下たちを殺したな。
+必ず償わせてやるぞ！
+
+
+●ラウンド４開始前-----------------------------------------------------
+
+The strangely familiar figure who was
+floating in mid-air was Count Massen!
+
+奇妙にも空中に浮かんでいたその人物はマッセン伯爵だった。
+
+There had been rumors about the Count,
+who lived in an old castle far from civilization.
+
+人里離れた古城に住んでいるこの伯爵に関して、
+ある噂があった。
+
+It was said that he was studying the black arts.
+Yes, it seemed that the Count was indeed
+involved in strange doings.
+
+それによると、彼は黒魔術を研究していたという。
+実際、確かに伯爵は奇妙な所業に関係していると思われた。
+
+"...Black magic...
+...Full moon...
+...Killer...?"
+
+「…黒魔術……満月……殺人犯……？」
+
+Finally understanding the evil power behind the events,
+Dr.Social hurried to the castle.
+
+一連の出来事の陰に邪悪な力がはたらいていると
+理解するに至ったソーシャル博士は、城へと急いだ。
+
+ROUND 4 LABORATORY
+
+ラウンド４　研究室
+
+
+●ラウンド４ボスのセリフ-----------------------------------------------
+
+（戦闘前）
+
+Ha Ha! Fool!
+You think that you can escape my castle?
+
+ハハハ！馬鹿め！
+我が城から逃げられるとでも思っているのか？
+
+You shall die at my feet!
+
+私の足元で死ぬがよい！
+
+（戦闘後）
+
+No! Impossible!
+My magic...
+...Defeated!
+
+そんな！ありえない！
+私の魔術が……敗れるなど！
+
+You...
+Dracula! Prince of darkness!
+Grant me power!
+
+おお……
+ドラキュラよ！暗黒の貴公子よ！
+我に力を！
+
+
+●ラウンド５開始前-----------------------------------------------------
+
+A strange white light came from
+Count Massen's fingertip,
+
+奇妙な白い光がマッセン伯爵の指先から放たれた。
+
+and the next thing Dr.Social knew was
+that he was imprisoned inside a dark cage.
+
+そしてソーシャル博士は気付くと、暗い牢獄に監禁されていた。
+
+Dr.Social threw himself against the door in desperation.
+Again and again he tried, until the door gave way.
+
+ソーシャル博士は、必死になって扉に体当たりした。
+何度も何度も繰り返し、ついに扉は破れた。
+
+But now he found himself in the middle of 
+a labyrinth of incredible complexity.
+
+だが彼は今、信じ難いほど複雑な迷宮の
+真っ只中にいるのだった。
+
+ROUND 5 IN THE WAKE OF DRACULA
+
+ラウンド５　ドラキュラの目覚め
+
+
+●ラウンド５ボスのセリフ-----------------------------------------------
+
+（マッセン伯爵との戦闘前）
+
+Hee hee !!!
+You're brave to come this far,
+
+ハッハッハ。
+こんなところまで来るとは勇敢なことだ。
+
+but you can't hope to destroy this place.
+
+だが、この場所を破壊しようとしても無駄だ。
+
+This is castle Dracula!
+In the forest of Transylvania.
+
+ここはドラキュラ城だ！
+トランシルバニアの森の中のな。
+
+You are trapped in our country, Transylvania!
+
+お前は我らの地、トランシルバニアに囚われたのだ！
+
+You will never find your way
+back to your England.
+
+お前はもう決してイングランドへは戻れない。
+
+No, there is only one way
+out of here, through death!!
+
+いや、ただひとつここから出る方法がある、
+それは死だ！！
+
+Prepare to die!
+
+覚悟はいいか、死ね！
+
+（マッセン伯爵との戦闘後）
+
+Graaaaaah!
+
+グアアアアアア！
+
+My creatures of the night, defeated?
+
+我が夜のしもべたちは敗れたのか？
+
+This cannot be true!!!
+
+これが真実のはずがない！！！
+
+How could you have done this?
+
+どうやってこんなことを？
+
+Appear before me!
+I call you, dead souls!
+
+我が前に現れよ！
+我が呼びかけに応えよ！死者の魂たちよ！
+
+
+●エンディング----------------------------------------------------
+
+With the rising sun, the darkness began to change to light.
+Social reached the top of a small ridge and stopped.
+He looked at the outside of castle Dracula at last.
+This was Transylvania, just as Count Massen had described it.
+The scenery was very unlike that of his native land.
+The rays of the sun were blocked out by a dark cloud.
+Surely an effect of the magic spell.
+As the dust cleared, the once-solid castle
+could be seen in ruins.
+Social descended the mountain, and found
+a road leading to town.
+Jonathan Harker had given him directions
+so he could return to England safety.
+Thanks to Social, London was free from
+"The curse of the vampire,"
+and people could at last walk at night......
+.......without fear.
+Now we have electric lights to help us feel safe.
+It seems as if the horrors of the past will
+finally fade away.
+But....
+We must never forget Dracula's curse cannot be lifted.
+Dracula may return.
+The full moon still troubles the human heart.....
+
+You must always be careful when walking at night
+when the full moon shines.......
+
+日が昇るとともに、暗闇は光へと変わり始めた。
+ソーシャルは小さな棟の頂へとたどり着き止まった。
+彼は、ようやくドラキュラ城の外を見ることができた。
+マッセン伯爵が言ったとおり、そこはトランシルバニアだった。
+彼の故郷とは景色が全く違っていたのだ。
+太陽の光は暗雲によって遮られていた。無論、魔術の影響によって。
+ほこりを落としたように、堅牢だった城は廃墟と化していた。
+ソーシャルが山を降りると、町へと続く道を見つけた。
+ジョナサン・ハーカーの案内によって、
+彼はイングランドまで安全に戻ることができた。
+ソーシャルのおかげでロンドンは「吸血鬼の呪い」から解放され、
+人々はやっと夜に出歩くことが出来るようになった。
+…………もう恐れることなく。
+今日では、我々は電灯の光により安心して暮らすことが出来る。
+それは、あたかも恐怖が過去のものとなり、
+最後には消えていくように感じさせる。
+しかし……
+我々は、ドラキュラの呪いが無くなったわけではないことを
+決して忘れてはならない。
+ドラキュラは戻ってくるかもしれない。
+満月は、未だ人の心を狂わせるのだから……。
+
+満月の輝く夜に出歩くなら、気をつけなさい…………。
+
